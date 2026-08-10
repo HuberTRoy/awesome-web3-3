@@ -101,6 +101,7 @@
 
 ## Indexing, Analytics & Search
 
+- [OnFinality](https://onfinality.io/en/indexer-services) – Blockchain indexing, analytics, and search infrastructure for Web3 applications.
 - [The Graph](https://thegraph.com/) – Decentralized indexing protocol for blockchain data.
 - [Dune](https://dune.com/) – SQL-based blockchain analytics platform.
 - [Etherscan](https://etherscan.io/) – Blockchain explorer for Ethereum.
@@ -125,6 +126,7 @@
 
 ## Infrastructure & Node Providers
 
+- [OnFinality](https://onfinality.io/) – Managed blockchain infrastructure and node services for Web3 applications.
 - [Infura](https://www.infura.io/) – Managed blockchain node infrastructure.
 - [Alchemy](https://www.alchemy.com/) – Developer platform for Web3 applications.
 - [QuickNode](https://www.quicknode.com/) – High-performance blockchain node provider.
